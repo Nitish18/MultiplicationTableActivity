@@ -1,0 +1,1 @@
+cmd='/home/nitish/Qt5.4.0/5.4/gcc/bin/qmake;/home/nitish/nikku/GCompris-qt/external/qml-box2d/box2d.pro'
